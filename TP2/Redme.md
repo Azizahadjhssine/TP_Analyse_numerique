@@ -1,5 +1,7 @@
 # TP2 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Azizahadjhssine/TP_analyse_numerique/tree/main/TP2/HEAD?labpath=TP2_Aziza%20hadj%20hssine.ipynb)
 ## Interpolation polynomiale
+
 
 [//]: # (how to add latex in markdown https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b)
 
